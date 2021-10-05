@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gusmoura
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, JavaScript
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusmoura&layout=compact)](https://github.com/gusmoura/github-readme-stats)
+
 
 <!---
 gusmoura/gusmoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
