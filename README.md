@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @gusmoura
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusmoura&layout=compact)](https://github.com/gusmoura/github-readme-stats)
 
 
